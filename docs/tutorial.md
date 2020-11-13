@@ -52,7 +52,7 @@ Install [Homebrew](https://brew.sh/) if not yet installed:
 ```
 
 
-install kubectl, minikube and helm client
+Install VirtualBox, kubectl, minikube and helm client
 ```bash
 # Install VirtualBox
 brew cask install virtualbox
